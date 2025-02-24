@@ -1,1 +1,2 @@
 # SAYAN-XMD_V1
+Disclaimer- Some contents are used for educational purpose under fair use. Copyright Disclaimer under section 107 of the copyright Act 1976, allowance is Made for "fair use" for purpose such as criticism, comment, news reporting, teaching, scholarship and research Fair use is a use permitted by copyright statute that might otherwise be infringing Non-Profit, educational or personal use tips the balance in favour of fair use. All credit for copyright materiel use in video goes to respected owner.
