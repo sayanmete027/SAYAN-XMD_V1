@@ -1,8 +1,8 @@
 {
-  "name": "YourBot",
-  "description": "Javascript WhatsApp bot made by YourName",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["bot"],
+  "name": "SAYAN-XMD-V1",
+  "description": "Javascript WhatsApp bot made by SAYAN",
+  "logo": "https://files.catbox.moe/tztl0q.jpg",
+  "keywords": ["bot,anitabot,levante,whatsApp,botv1,SAYAN-XMD-V!"],
   "success_url": "/",
 
   "env": {
@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://files.catbox.moe/tztl0q.jpg",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "Hello owner SAYAN xMD V1 online",
       "required": true
     }   
 },
